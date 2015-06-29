@@ -1,5 +1,5 @@
 .container{
-  max-width: 500px;
+  max-width: 600px;
   min-width: 300px;
 }
 
@@ -7,7 +7,7 @@ ul.img-list {
   list-style-type: none;
   margin: 0;
   padding: 10px 10px 10px 10px;
-  text-align: center;
+  text-align: left;
 }
 
 ul.img-list li {
@@ -26,7 +26,6 @@ img{
 
 }
 
-
 span.text-content {
   background: rgba(0,0,0,0.5);
   color: white;
@@ -36,8 +35,9 @@ span.text-content {
   left: 0;
   position: absolute;
   top: 0;
-  width: 150px;
+  width: auto;
   opacity: 0;
+  padding-left: 10px;
   -webkit-transition: opacity 500ms;
   -moz-transition: opacity 500ms;
   -o-transition: opacity 500ms;

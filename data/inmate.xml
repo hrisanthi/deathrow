@@ -1,9 +1,50 @@
 <inmates>
-  <inmate name="Wayne A. Laws">
-    <image>img/laws.jpeg</image>
-    <age>55</age>
-    <convicted>08/20/1985</convicted>
+  <inmate name="PHILLIP E WILKINSON">
+    <image>img/wilkinson.jpeg</image>
+    <age>48</age>
+    <convicted>09/15/1994</convicted>
     <crime>First degree murder</crime>
-    <county>Davidson</county>
+    <county>Cumberland</county>
   </inmate>
+
+  <inmate name="RICKY E CAGLE">
+    <image>img/cagle.jpeg</image>
+    <age>46</age>
+    <convicted>09/16/1995</convicted>
+    <crime>First degree murder</crime>
+    <county>Cumberland</county>
+  </inmate>
+
+  <inmate name="JOHN D MCNEILL">
+    <image>img/mcneill.jpeg</image>
+    <age>51</age>
+    <convicted>11/10/1995</convicted>
+    <crime>First degree murder</crime>
+    <county>Cumberland</county>
+  </inmate>
+
+  <inmate name="JEFFERY K MEYER">
+    <image>img/meyer.jpeg</image>
+    <age>48</age>
+    <convicted>06/20/1998</convicted>
+    <crime>First degree murder</crime>
+    <county>Cumberland</county>
+  </inmate>
+
+  <inmate name="EUGENE J WILLIAMS">
+    <image>img/williams.jpeg</image>
+    <age>40</age>
+    <convicted>05/01/2007</convicted>
+    <crime>First degree murder</crime>
+    <county>Cumberland</county>
+  </inmate>
+
+  <inmate name="MARIO A MCNEIL">
+    <image>img/mcniel.jpeg</image>
+    <age>35</age>
+    <convicted>05/29/2013</convicted>
+    <crime>First degree murder</crime>
+    <county>Cumberland</county>
+  </inmate>
+
   </inmates>

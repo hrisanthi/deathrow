@@ -21,8 +21,8 @@ $(function () {
                     color: colors[0],
                     drilldown: {
                         name: 'States with death penalty',
-                        categories: ['Alabama', 'Arizona', 'Arkansas', 'California', 'Colorado', 'Delaware', 'Florida', 'Georgia', 'Idaho', 'Indiana', 'Kansas', 'Kentucky', 'Louisiana', 'Mississippi', 'Missouri', 'Montana', 'Nevada', 'New Hampshire', 'North Carolina', 'Ohio', 'Oklahom', 'Oregon','Pennsylvania', 'South Carolina','South Dakota', 'Tennessee','Texas', 'Utah', 'Virginia', 'Washington','Wyoming'],
-                        data: [201, 124, 35, 746, 3, 17, 401, 85, 11, 14, 9, 34, 85, 48, 33, 2, 78, 1, 157, 145, 48, 36, 184, 44, 3, 73, 271, 9, 8, 9, 1],
+                        categories: ['Alabama', 'Arizona', 'Arkansas', 'California', 'Colorado', 'Connecticut', 'Delaware', 'Florida', 'Georgia', 'Idaho', 'Indiana', 'Kansas', 'Kentucky', 'Louisiana', 'Mississippi', 'Missouri', 'Montana', 'Nebraska','Nevada', 'New Hampshire', 'New Mexico', 'North Carolina', 'Ohio', 'Oklahoma', 'Oregon','Pennsylvania', 'South Carolina','South Dakota', 'Tennessee','Texas', 'Utah', 'Virginia', 'Washington','Wyoming', 'US Government', 'US Military'],
+                        data: [201, 124, 35, 746, 3, 12, 17, 401, 85, 11, 14, 9, 34, 85, 48, 33, 2, 11, 78, 1, 2, 157, 145, 48, 36, 184, 44, 3, 73, 271, 9, 8, 9, 1, 61, 6],
                         color: colors[0]
                     }
                 }, {
