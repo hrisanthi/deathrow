@@ -73,9 +73,6 @@ $(function () {
                     dataLabels: {
                         enabled: true,
                         color: colors[0],
-                        style: {
-                            fontWeight: 'bold'
-                        },
                         formatter: function() {
                             return this.y;
                         }

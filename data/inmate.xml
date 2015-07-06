@@ -1,50 +1,161 @@
 <inmates>
-  <inmate name="PHILLIP E WILKINSON">
-    <image>img/wilkinson.jpeg</image>
+  <inmate name="PHILLIP WILKINSON">
+    <image>img/wilkinson.png</image>
     <age>48</age>
     <convicted>09/15/1994</convicted>
     <crime>First degree murder</crime>
     <county>Cumberland</county>
   </inmate>
 
-  <inmate name="RICKY E CAGLE">
-    <image>img/cagle.jpeg</image>
+  <inmate name="RICKY CAGLE">
+    <image>img/cagle.png</image>
     <age>46</age>
     <convicted>09/16/1995</convicted>
     <crime>First degree murder</crime>
     <county>Cumberland</county>
   </inmate>
 
-  <inmate name="JOHN D MCNEILL">
-    <image>img/mcneill.jpeg</image>
+  <inmate name="JOHN MCNEILL">
+    <image>img/mcneill.png</image>
     <age>51</age>
     <convicted>11/10/1995</convicted>
     <crime>First degree murder</crime>
     <county>Cumberland</county>
   </inmate>
 
-  <inmate name="JEFFERY K MEYER">
-    <image>img/meyer.jpeg</image>
+  <inmate name="JEFFERY MEYER">
+    <image>img/meyer.png</image>
     <age>48</age>
     <convicted>06/20/1998</convicted>
     <crime>First degree murder</crime>
     <county>Cumberland</county>
   </inmate>
 
-  <inmate name="EUGENE J WILLIAMS">
-    <image>img/williams.jpeg</image>
+  <inmate name="EUGENE WILLIAMS">
+    <image>img/williams.png</image>
     <age>40</age>
     <convicted>05/01/2007</convicted>
     <crime>First degree murder</crime>
     <county>Cumberland</county>
   </inmate>
 
-  <inmate name="MARIO A MCNEIL">
-    <image>img/mcniel.jpeg</image>
+  <inmate name="MARIO MCNEIL">
+    <image>img/mcniel.png</image>
     <age>35</age>
     <convicted>05/29/2013</convicted>
     <crime>First degree murder</crime>
     <county>Cumberland</county>
   </inmate>
 
+  <inmate name="TERRANCE ELLIOTT">
+    <image>img/elliott.png</image>
+    <age>46</age>
+    <convicted>12/18/2003</convicted>
+    <crime>First degree murder</crime>
+    <county>Moore</county>
+  </inmate>
+
+  <inmate name="MARIO PHILLIPS">
+    <image>img/phillips.png</image>
+    <age>47</age>
+    <convicted>10/17/2007</convicted>
+    <crime>First degree murder</crime>
+    <county>Moore</county>
+  </inmate>
+
+  <inmate name="TIMMY GROOMS">
+    <image>img/grooms.png</image>
+    <age>52</age>
+    <convicted>04/24/1998</convicted>
+    <crime>First degree murder</crime>
+    <county>Scotland</county>
+  </inmate>
+
+  <inmate name="JERRY HILL">
+    <image>img/hill.png</image>
+    <age>39</age>
+    <convicted>10/31/1995</convicted>
+    <crime>First degree murder</crime>
+    <county>Harnett</county>
+  </inmate>
+
+  <inmate name="JIMMIE LAWRENCE">
+    <image>img/lawrence.png</image>
+    <age>41</age>
+    <convicted>12/11/1997</convicted>
+    <crime>First degree murder</crime>
+    <county>Harnett</county>
+  </inmate>
+
+  <inmate name="ROBERT BREWINGTON">
+    <image>img/brewington.png</image>
+    <age>51</age>
+    <convicted>08/28/1998</convicted>
+    <crime>First degree murder</crime>
+    <county>Harnett</county>
+  </inmate>
+
+  <inmate name="EDDIE TAYLOR">
+    <image>img/taylor.png</image>
+    <age>33</age>
+    <convicted>08/24/2005</convicted>
+    <crime>First degree murder</crime>
+    <county>Harnett</county>
+  </inmate>
+
+  <inmate name="DANIEL GARNER">
+    <image>img/garner.png</image>
+    <age>50</age>
+    <convicted>01/14/1990</convicted>
+    <crime>First degree murder</crime>
+    <county>Robeson</county>
+  </inmate>
+
+  <inmate name="ROBBIE LOCKLEAR">
+    <image>img/locklear.png</image>
+    <age>50</age>
+    <convicted>05/14/1995</convicted>
+    <crime>First degree murder</crime>
+    <county>Robeson</county>
+  </inmate>
+
+  <inmate name="JERRY CUMMINGS">
+    <image>img/cummings.png</image>
+    <age>75</age>
+    <convicted>11/25/1966</convicted>
+    <crime>First degree murder</crime>
+    <county>Robeson</county>
+  </inmate>
+
+  <inmate name="IZIAH BARDEN">
+    <image>img/barden.png</image>
+    <age>58</age>
+    <convicted>11/12/1999</convicted>
+    <crime>First degree murder</crime>
+    <county>Sampson</county>
+  </inmate>
+
+  <inmate name="JOHNNY PARKER">
+    <image>img/parker.png</image>
+    <age>40</age>
+    <convicted>03/08/1993</convicted>
+    <crime>First degree murder</crime>
+    <county>Sampson</county>
+  </inmate>
+
+  <inmate name="EDDIE ROBINSON">
+    <image>img/robinson.png</image>
+    <age>67</age>
+    <convicted>05/14/1992</convicted>
+    <crime>First degree murder</crime>
+    <county>Bladen</county>
+  </inmate>
+
+  <inmate name="NORFOLK BEST">
+    <image>img/best.png</image>
+    <age>60</age>
+    <convicted>06/05/1993</convicted>
+    <crime>First degree murder</crime>
+    <county>Columbus</county>
+  </inmate>
   </inmates>

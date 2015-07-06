@@ -3,6 +3,10 @@
   min-width: 300px;
 }
 
+h4{
+  font-size: 15px;
+}
+
 ul.img-list {
   list-style-type: none;
   margin: 0;
@@ -17,6 +21,7 @@ ul.img-list li {
   margin: 0 1em 1em 0;
   position: relative;
   width: 150px;
+  line-height: 14px;
 }
 
 img{
@@ -37,7 +42,7 @@ span.text-content {
   top: 0;
   width: auto;
   opacity: 0;
-  padding-left: 10px;
+  padding-left: 5px;
   -webkit-transition: opacity 500ms;
   -moz-transition: opacity 500ms;
   -o-transition: opacity 500ms;

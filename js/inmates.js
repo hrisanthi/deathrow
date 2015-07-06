@@ -40,7 +40,7 @@ function loadData(xml){
 
 
                var inmateHTML ='';
-               inmateHTML += '<li><img src=' + image + '><span class ="text-content"><span></span><h4>' + name + '</h4><h5 class="county">' + county + '</h5><h5>'+ convicted +'</h5><h5>'+ crime +'</h5></span></li>';
+               inmateHTML += '<li><img src=' + image + '><span class ="text-content"><span></span><h4>' + name + '</h4><p class="county">County: ' + county + '</p><p>Date convicted: '+ convicted +'</p><p>Crime: '+ crime +'</p></span></li>';
 
                $(".img-list").append($(inmateHTML));
 
